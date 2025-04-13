@@ -18,5 +18,11 @@ A web application to help students connect with peers, form study groups, and co
 - **Real-time**: Socket.io
 - **Authentication**: JWT (JSON Web Tokens)
 
-## 🧱 Folder Structure (planned)
+## Screenshots
+
+![Homepage Screenshot](ss/homepage.png)
+![Study Groups](ss/study-groups.png)
+![Notification](ss/notification.png)
+![Chat](ss/chat.png)
+
 
